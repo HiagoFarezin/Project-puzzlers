@@ -14,14 +14,3 @@ Multiple Puzzle Types: Includes a variety of puzzles to keep the gameplay intere
 Responsive Design: Ensures a smooth experience on different devices and screen sizes.
 High Scores: Track and compare high scores with others.
 Save Progress: Save and resume games to pick up where you left off.
-
-
-
-
-
-
-Design Responsivo: Garante uma experiência suave em diferentes dispositivos e tamanhos de tela.
-
-Pontuações Altas: Acompanhe e compare as pontuações altas com outros jogadores.
-
-Salvar Progresso: Salve e retome jogos para continuar de onde parou.
