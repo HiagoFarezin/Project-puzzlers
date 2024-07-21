@@ -1,0 +1,21 @@
+{
+  "name": "project-puzzlers",
+  "version": "1.0.0",
+  "description": "my first independent project.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "undici-types": "^5.26.5"
+  }
+}

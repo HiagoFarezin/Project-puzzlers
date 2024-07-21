@@ -1,0 +1,16 @@
+#puzzle-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: 400px;
+    height: 400px;
+}
+
+.tile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    font-size: 24px;
+    font-weight: bold;
+}
